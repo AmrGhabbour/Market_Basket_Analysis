@@ -41,10 +41,11 @@ To find the best partners for any product, simply run the following in your envi
 # Replace 100044 with any Product ID you are curious about
 top_matches = bst_products(100044)
 print(top_matches)
+```
 
 
 
-# 🛒 مشروع "سبوبة" تحليل سلة المشتريات (Market Basket Analysis)
+# 🛒 مشروع تحليل سلة المشتريات (Market Basket Analysis)
 
 ### المشروع ده عبارة عن إيه؟
 عمرك سألت نفسك ليه السوبر ماركت بيحط العيش جنب الجبنة؟ أو ليه لما بتشتري موبايل، الموقع بيقترح عليك "جراب" و"سكرينة"؟
